@@ -4,3 +4,4 @@ Feature Engineering searching for a dream house
 -	Aggregated and visualized the data by using python, pandas, matplotlib and seaborn to compile a professional report.
 -	Created new datasets by combining all significant variable and dealing with outliers making data ready for training and prediction.
 
+![](Images/FE%20Home%20Selection.png)
